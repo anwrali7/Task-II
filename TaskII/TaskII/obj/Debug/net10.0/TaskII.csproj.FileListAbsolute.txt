@@ -1,0 +1,15 @@
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\bin\Debug\net10.0\TaskII.exe
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\bin\Debug\net10.0\TaskII.deps.json
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\bin\Debug\net10.0\TaskII.runtimeconfig.json
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\bin\Debug\net10.0\TaskII.dll
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\bin\Debug\net10.0\TaskII.pdb
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\obj\Debug\net10.0\TaskII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\obj\Debug\net10.0\TaskII.AssemblyInfoInputs.cache
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\obj\Debug\net10.0\TaskII.AssemblyInfo.cs
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\obj\Debug\net10.0\TaskII.csproj.CoreCompileInputs.cache
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\obj\Debug\net10.0\TaskII.dll
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\obj\Debug\net10.0\refint\TaskII.dll
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\obj\Debug\net10.0\TaskII.pdb
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\obj\Debug\net10.0\TaskII.genruntimeconfig.cache
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\obj\Debug\net10.0\ref\TaskII.dll
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\TaskII\TaskII\obj\Debug\net10.0\TaskII.csproj.Up2Date
